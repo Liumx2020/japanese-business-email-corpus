@@ -1,1 +1,8 @@
 # japanese-business-email-corpus
+
+## License
+
+This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+For details, see the [LICENSE](./LICENSE) file or visit:
+https://creativecommons.org/licenses/by/4.0/

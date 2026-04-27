@@ -1,18 +1,87 @@
-Creative Commons Attribution 4.0 International
+Dataset License: Attribution and No Redistribution License v1.0
 
 Copyright (c) 2026 Muxuan Liu and contributors
 
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This dataset is made available by Muxuan Liu and contributors under the terms of this Attribution and No Redistribution License.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+1. Definitions
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+"Dataset" means the original dataset, including all data files, metadata, annotations, labels, documentation, examples, and any other material distributed with it.
 
-Full license text:
-https://creativecommons.org/licenses/by/4.0/legalcode
+"Modified Dataset" means any dataset, file, table, annotation, translation, subset, cleaned version, reformatted version, or other material created from the Dataset.
 
-License summary:
-https://creativecommons.org/licenses/by/4.0/
+"Use" means downloading, reading, analyzing, processing, training models on, evaluating models on, or otherwise working with the Dataset.
+
+"Redistribution" means sharing, uploading, publishing, selling, sublicensing, transferring, mirroring, hosting, or making the Dataset or a Modified Dataset available to any third party, whether publicly or privately, in whole or in part.
+
+2. Permission
+
+You are permitted to use the Dataset for research, education, evaluation, and other lawful purposes, including commercial research, subject to the terms below.
+
+You may create Modified Datasets for your own internal use.
+
+You may publish research papers, reports, statistics, analysis results, trained model descriptions, and short examples based on the Dataset, as long as these materials do not include a substantial part of the Dataset and do not allow others to reconstruct the Dataset.
+
+3. Attribution
+
+If you use the Dataset in any publication, project, software, model card, report, presentation, or public result, you must give appropriate credit to:
+
+Muxuan Liu and contributors
+
+You must also include the name of the Dataset, a link to the official Dataset repository or official Dataset page, and a notice that the Dataset is licensed under this Attribution and No Redistribution License v1.0.
+
+Suggested attribution format:
+
+This work uses the dataset created by Muxuan Liu and contributors, licensed under the Attribution and No Redistribution License v1.0.
+
+4. No Redistribution
+
+You may not redistribute the Dataset.
+
+You may not redistribute any Modified Dataset.
+
+You may not upload the Dataset or any Modified Dataset to public or private platforms, including but not limited to GitHub, Hugging Face, Kaggle, Zenodo, Google Drive, Dropbox, institutional repositories, data mirrors, torrents, or package managers.
+
+You may not include the Dataset or any Modified Dataset in another dataset, benchmark, corpus, database, software package, model release, or supplementary material.
+
+You may not sell, rent, sublicense, or transfer access to the Dataset or any Modified Dataset.
+
+If you want to tell others about the Dataset, you must direct them to the official Dataset repository or official Dataset page instead of sending them a copy.
+
+5. Model Training and Outputs
+
+You may train, fine-tune, evaluate, or test models using the Dataset.
+
+You may share model weights, model outputs, evaluation results, and analysis results only if they do not contain a substantial part of the Dataset and do not allow reconstruction of the Dataset.
+
+You may not use model outputs or generated files as a way to recreate, publish, or redistribute the Dataset.
+
+6. Third-Party Rights and Personal Data
+
+You are responsible for making sure that your use of the Dataset follows all applicable laws, rules, ethics requirements, privacy requirements, and institutional policies.
+
+This license does not grant permission to violate privacy rights, publicity rights, moral rights, trademark rights, database rights, or any other rights that may apply.
+
+7. No Warranty
+
+The Dataset is provided "as is", without warranty of any kind.
+
+The copyright holders and contributors make no warranties about the accuracy, completeness, fitness for a particular purpose, legality, or non-infringement of the Dataset.
+
+You use the Dataset at your own risk.
+
+8. Termination
+
+If you violate this license, your permission to use the Dataset ends automatically.
+
+After termination, you must stop using the Dataset and delete all copies of the Dataset and Modified Datasets in your possession or control, unless otherwise required by law or institutional record-keeping rules.
+
+9. Additional Permission
+
+For permission beyond this license, including redistribution, dataset hosting, benchmark inclusion, commercial dataset use, or integration into another corpus, please contact the copyright holder.
+
+10. License Notice
+
+This Dataset is not licensed under Creative Commons Attribution 4.0 International.
+
+Creative Commons Attribution 4.0 International permits copying and redistribution. This license does not permit redistribution.

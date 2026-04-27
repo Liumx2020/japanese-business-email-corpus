@@ -10,10 +10,17 @@ Muxuan Liu, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayash
 
 ## License
 
-This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Copyright (c) 2026 Muxuan Liu and contributors
 
-For details, see the [LICENSE](./LICENSE) file or visit:
-https://creativecommons.org/licenses/by/4.0/
+This dataset is licensed under the Attribution and No Redistribution License v1.0.
+
+You may use the dataset for research, education, evaluation, and other lawful purposes, including commercial research.
+
+However, you may not redistribute the dataset or any modified version of the dataset. This includes uploading, sharing, publishing, mirroring, selling, sublicensing, or including the dataset in another dataset, benchmark, repository, software package, or supplementary material.
+
+If you want to tell others about this dataset, please direct them to the official repository instead of sending them a copy.
+
+Full license text: see LICENSE.
 
 ## Citation
 

@@ -1,6 +1,8 @@
 # japanese-business-email-corpus
 
-This repository releases the dataset introduced in the following paper:
+This repository provides information about the dataset introduced in the following paper. The dataset is not directly redistributed through this repository. 
+To request access to the dataset, please contact liu.muxuan@ocha.ac.jp.
+
 
 **Constructing a Japanese Business Email Corpus Based on Social Situations**  
 Muxuan Liu, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayashi.  
@@ -9,8 +11,7 @@ Muxuan Liu, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayash
 
 
 ## License
-
-This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+The dataset is made available upon request and is governed by the terms described in the LICENSE file.
 
 For details, see the [LICENSE](./LICENSE) file or visit:
 https://creativecommons.org/licenses/by/4.0/

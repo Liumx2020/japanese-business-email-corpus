@@ -11,7 +11,7 @@ Muxuan Liu, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayash
 
 The dataset is not directly redistributed through this repository.
 
-To request access to the dataset, please contact: **liu.muxuan@ocha.ac.jp**
+To request access to the dataset, please contact: **liu.muxuan@is.ocha.ac.jp**
 
 
 ## License
